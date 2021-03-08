@@ -6,5 +6,8 @@ Per installare il file sarà sufficente caricare il loader.php (che potrai trova
 <br>
 In caso si possieda **Linux** basterà eseguire il file `install.sh` che puoi torvare in **src** che lancerà un `wget`
 
+## Configurazione
+Per far funzionare il programma basterà inserire nel file `conf.key` lo slug del server minecraft desiderato
+
 ## Problemi
 In caso si riscontrano problemi si potrà tranquillamente aprire una Issues oppure contattarmi su Discord ( **FoxWorn#0001**)
